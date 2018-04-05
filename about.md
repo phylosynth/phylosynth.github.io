@@ -32,6 +32,9 @@ Jan Kim<br>
 <a href="http://blackrim.org">Stephen Smith</a><br>
 <a href="https://sco.h-its.org/exelixis/index.html">Alexandros Stamatakis</a><br>
 <a href="http://rutgervos.blogspot.dk">Rutger Vos</a><br>
-<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a><p>
+<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a><br>
+You?? Get in touch on phylosynth[at]gmail.com<p>
   
-
+PhyloSynth is linked to several other projects, including <p>
+<a href="https://www.kew.org/science/who-we-are-and-what-we-do/strategic-outputs-2020/plant-and-fungal-trees-life">The Plant and Fungal Trees of Life</a>
+<a href="http://flagellateplants.group.ufl.edu">GoFlag - Genealogy of Flagellate Plants</a>
