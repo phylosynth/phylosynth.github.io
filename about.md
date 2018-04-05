@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-PhyloSynth is a collaborative group of scientists that aim to provide an updated framework and set of phylogenies for the plant Tree of Life.<p>
+PhyloSynth is a collaborative group of scientists that aim to provide an updated framework and set of phylogenies for the plant Tree of Life.
 
-We got together because we want to find new ways to provide an integrated, up-to-date, high quality, open, reproducible and sustainable plant Tree of Life to a diverse user community. You can find out more about our vision <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1041">here</a>.<p>
+We got together because we want to find new ways to provide an integrated, up-to-date, high quality, open, reproducible and sustainable plant Tree of Life to a diverse user community. You can find out more about our vision <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1041">here</a>.
 
-Current members are: <p>
+Current members are: 
 
 <a href="http://www.antonelli-lab.net">Alexandre Antonelli</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/william-j-bill-baker">Bill Baker</a><br>
@@ -32,9 +32,9 @@ Jan Kim<br>
 <a href="http://blackrim.org">Stephen Smith</a><br>
 <a href="https://sco.h-its.org/exelixis/index.html">Alexandros Stamatakis</a><br>
 <a href="http://rutgervos.blogspot.dk">Rutger Vos</a><br>
-<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a><p>
+<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a>
 
-Keen to join? Get in touch on phylosynth[at]gmail.com<p>
+Keen to join? Get in touch on phylosynth[at]gmail.com
   
 PhyloSynth is linked to several other projects, including: <br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/strategic-outputs-2020/plant-and-fungal-trees-life">The Plant and Fungal Trees of Life</a><br>
