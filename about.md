@@ -8,7 +8,7 @@ PhyloSynth is a collaborative group of scientists that aim to provide an updated
 
 We got together because we want to find new ways to provide an integrated, up-to-date, high quality, open, reproducible and sustainable plant Tree of Life to a diverse user community. You can find out more about our vision <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1041">here</a>.<p>
 
-Current members of PhyloSynth are: <p>
+Current members are: <p>
 
 <a href="http://www.antonelli-lab.net">Alexandre Antonelli</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/william-j-bill-baker">Bill Baker</a><br>
