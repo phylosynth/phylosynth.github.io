@@ -10,4 +10,4 @@ The conference will include two sessions of invited talks and one session of con
 
 Travel awards are available, and registration in advance is required. 
 
-Please see http://tandy.cs.illinois.edu/2018-Symposium.htm for more information.
+Please see http://tandy.cs.illinois.edu/2018-Symposium-v2.htm for more information.
