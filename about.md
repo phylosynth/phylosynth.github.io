@@ -12,7 +12,7 @@ Current members are:
 
 <a href="http://www.antonelli-lab.net">Alexandre Antonelli</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/william-j-bill-baker">Bill Baker</a><br>
-Dominic Bennett<br>
+<a href="https://www.dominicjbennett.com/">Dominic Bennett</a><br>
 <a href="https://www.cragenomica.es/staff/detail/laura-r-botigue">Laura Botigué</a><br>
 <a href="https://biology.ufl.edu/gburleigh/">Gordon Burleigh</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/steven-dodsworth">Steven Dodsworth</a><br>
@@ -33,6 +33,7 @@ Jan Kim<br>
 <a href="https://sco.h-its.org/exelixis/index.html">Alexandros Stamatakis</a><br>
 <a href="http://rutgervos.blogspot.dk">Rutger Vos</a><br>
 <a href="http://tandy.cs.illinois.edu">Tandy Warnow</a>
+<a href="https://www.sunmiao.name/">Miao Sun</a><br>
 
 Keen to join? Get in touch on phylosynth[at]gmail.com
   
