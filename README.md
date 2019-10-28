@@ -14,3 +14,10 @@ https://phylosynth.github.io/
 
 ## License
 
+The content of this project itself is licensed under the [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+
+<center>
+
+![ ](./assets/images/license.png)  
+
+</center>  

@@ -32,7 +32,7 @@ Jan Kim<br>
 <a href="http://blackrim.org">Stephen Smith</a><br>
 <a href="https://sco.h-its.org/exelixis/index.html">Alexandros Stamatakis</a><br>
 <a href="http://rutgervos.blogspot.dk">Rutger Vos</a><br>
-<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a>
+<a href="http://tandy.cs.illinois.edu">Tandy Warnow</a><br>
 <a href="https://www.sunmiao.name/">Miao Sun</a><br>
 
 Keen to join? Get in touch on phylosynth[at]gmail.com
