@@ -19,7 +19,7 @@ Current members are:
 <a href="http://www.wolfeiserhardt.net">Wolf Eiserhardt</a><br>
 <a href="https://brianjenquist.wordpress.com">Brian Enquist</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/felix-forest">Félix Forest</a><br>
-Jan Kim<br>
+<a href="https://github.com/jttkim">Jan Kim</a><br>
 <a href="https://github.com/amkozlov">Alexey Kozlov</a><br>
 <a href="https://www.kew.org/science/who-we-are-and-what-we-do/people/dr-ilia-j-leitch">Ilia Leitch</a><br>
 <a href="https://github.com/bmaitner">Brian Maitner</a><br>
