@@ -12,7 +12,7 @@ We had a great time together, and quite enjoyed his visit. Dom Bennet gave us a 
 
 On the second day, we had compared the features of two pipelines <a href="https://github.com/AntonelliLab/supersmartR"> **supersmartR** </a> and <a href="https://github.com/FePhyFoFum/PyPHLAWD"> **PyPHLAWD** </a>. We were trying to tear those great features from both pipelines apart, to investigate which of those features could be best suit for Phylosynth project. Our meeting notes can be found <a href="https://docs.google.com/document/d/1sJHEyHHmsQxjFUxUw1kbeLIPoh--IXDjD49QWa0Sdlg/edit"> Google Doc here </a>.  
 
-Here are some snapshoots took by <a href="https://www.sunmiao.name/"> Miao Sun </a> (_all right reserved_).  
+Here are some snapshoots took by <a href="https://www.sunmiao.name/"> Miao Sun </a> (_all rights reserved_ :).  
 
 ![Wolf is on charge of writting](../assets/images/Wolf_Dom_discussion.jpg){:width="512px"}  
 
